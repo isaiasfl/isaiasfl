@@ -11,10 +11,10 @@ const aboutMe = {
       },
       backEnd: {
          js: ["Node", "Express"],
-         misc: ["Bash", "PowerShell"]
+         misc: ["Bash", "PowerShell", "Docker", "Automation Systems"]
       },
    },
-   currentOccupation: ["Computer Science Teacher at IES Hermenegildo Lanz"],
+   currentOccupation: ["Professor of Computer Science at IES Hermenegildo Lanz"],
    challenge: "Running 100 kilometers each month."
 }
 ```
@@ -22,7 +22,7 @@ ___
 
 <!--
 Cuando quieras sacar estadísticas.
-[![Isaías GitHub stats](https://github-readme-stats.vercel.app/api?username=isaiasfl)](https://github.com/anuraghazra/github-readme-stats)
+[![Isaías GitHub stats](https://github-readme-stats.vercel.app/api?username=isaiasfl)](https://github.com/isaiasfl/github-readme-stats)
 
 -->
 
