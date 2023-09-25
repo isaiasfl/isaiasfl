@@ -15,7 +15,7 @@ const aboutMe = {
       },
    },
    currentOccupation: ["Professor of Computer Science at IES Hermenegildo Lanz"],
-   challenge: "Running 100 kilometers each month."
+   challenge: "Run 100 kilometers each month."
 }
 ```
 ___
