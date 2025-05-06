@@ -51,7 +51,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/isaiasfl">
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=ffffff" alt="tailwindcss">
 </a>
-
+<a href="https://github.com/isaiasfl">
+  <img src="https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=rust&logoColor=000000&labelColor=ffffff" alt="rust">
+</a>
 <a href="https://github.com/isaiasfl">
   <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=ffffff" alt="docker">
 </a>
