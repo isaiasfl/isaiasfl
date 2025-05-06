@@ -1,7 +1,3 @@
-¡Perfecto! Aquí te dejo una versión más visual, con emojis, detalles y ya incluyendo **Rust**:
-
----
-
 ### Hi, I’m Isaías FL 👋
 
 ```javascript
@@ -68,17 +64,16 @@ const aboutMe = {
 
 ### 📈 GitHub Stats
 
-<!--
-[![Isaías GitHub stats](https://github-readme-stats.vercel.app/api?username=isaiasfl&show_icons=true&theme=radical)](https://github.com/isaiasfl/github-readme-stats)
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaiasfl&hide=c%2B%2B)](https://github.com/isaiasfl/github-readme-stats)
+
 
 ---
 
 ### 🌐 Let’s Connect!
 
-<a href="https://www.linkedin.com/in/isaiasfl/" target="_blank">
+<a href="https://www.linkedin.com/in/isa%C3%ADas-fl-59bb6a349/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
 </a>
-<a href="mailto:isaias@example.com">
+<a href="mailto:ifernandez@ieshlanz.es">
   <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="email">
 </a>
