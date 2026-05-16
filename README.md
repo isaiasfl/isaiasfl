@@ -1,16 +1,17 @@
-### Hi, I’m Isaías FL 👋
+# Hi, I’m Isaías FL 👋
 
 👨‍🏫 Computer Science teacher at **IES Hermenegildo Lanz**  
 💻 Web developer focused on **JavaScript, TypeScript, React, Next.js and Node.js**  
 🖥️ Homelab and infrastructure enthusiast working with **Proxmox, Linux, Docker, networking and local AI systems**  
 🤖 Exploring how to bring **private AI models** into real educational projects for students  
+🧠 Working with local and AI-assisted development tools such as **Ollama, OpenCode, Hermes and OpenAI-compatible APIs**  
 🏃 Personal challenge: running **100 km every month**
 
 ---
 
-### 🚀 About me
+## 🚀 About me
 
-I combine teaching, software development and systems administration to build practical learning environments for students.
+I combine teaching, software development, systems administration and AI experimentation to build practical learning environments for students.
 
 My main interests are:
 
@@ -19,13 +20,14 @@ My main interests are:
 - 🖥️ Virtualization with Proxmox
 - 🐳 Docker-based deployments
 - 🔐 Secure self-hosted services
+- 🤖 AI-assisted development workflows
 - 🎓 Educational projects for vocational IT students
 
 ---
 
-### 🧰 Tech Stack
+## 🧰 Tech Stack
 
-#### Languages
+### Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
@@ -33,21 +35,21 @@ My main interests are:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=fff)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=fff)
 
-#### Frontend
+### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)
 
-#### Backend & APIs
+### Backend & APIs
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=fff)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=fff)
 ![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=fff)
 
-#### Infrastructure, DevOps & Homelab
+### Infrastructure, DevOps & Homelab
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=fff)
@@ -56,35 +58,72 @@ My main interests are:
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=fff)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=fff)
 
-#### AI & Local Models
+### AI, Local Models & Developer Tools
 
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=fff)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=fff)
 ![OpenAI Compatible APIs](https://img.shields.io/badge/OpenAI%20Compatible%20APIs-412991?style=for-the-badge&logo=openai&logoColor=fff)
+![OpenCode](https://img.shields.io/badge/OpenCode-111111?style=for-the-badge&logo=code&logoColor=fff)
+![Hermes](https://img.shields.io/badge/Hermes-4B0082?style=for-the-badge&logo=gnometerminal&logoColor=fff)
 
 ---
 
-### 🔭 Currently working on
+## 🔭 Currently working on
 
 - Building private AI services for educational environments
 - Creating full-stack web projects for students
 - Managing self-hosted infrastructure with Proxmox, Docker and Linux
 - Designing practical learning materials for web development and AI integration
+- Experimenting with AI-assisted coding workflows using OpenCode, Hermes and local models
 
 ---
 
-### 📌 Featured areas
+## 📌 Featured Areas
 
 ```javascript
 const focus = {
   teaching: ["Web Development", "Programming", "AI for education"],
   development: ["React", "Next.js", "Node.js", "Express", "TypeScript"],
   infrastructure: ["Linux", "Proxmox", "Docker", "Reverse Proxy", "Networking"],
-  ai: ["Ollama", "Local LLMs", "OpenAI-compatible APIs", "Private AI services"],
+  ai: ["Ollama", "Local LLMs", "OpenAI-compatible APIs", "OpenCode", "Hermes"],
 };
 ```
 
+---
+
+## ⭐ Featured Projects
+
+- 🚲 **Hospital Bicis** — Web app for managing a bicycle lending system at school.
+- 🤖 **Private AI Gateway** — Secure API gateway for local AI models in educational environments.
+- 🧪 **Student Labs** — Practical projects for learning web development, Docker and AI integration.
+- 🖥️ **Homelab & Proxmox Infrastructure** — Virtualized environments for testing, teaching and self-hosted services.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=isaiasfl&show_icons=true&theme=default&hide_border=true" alt="Isaías FL GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaiasfl&layout=compact&hide=c%2B%2B&theme=default&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🌐 Let’s Connect
+
+<a href="https://linkedin.com/in/isaiasfl/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
+</a>
+
+<a href="mailto:ifernandez@ieshlanz.es">
+  <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="email">
+</a>
+
+
 ### 🌐 Let’s Connect
 <a href="https://linkedin.com/in/isaiasfl/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"> </a> <a href="mailto:ifernandez@ieshlanz.es"> <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="email"> </a>
-```
+
 
