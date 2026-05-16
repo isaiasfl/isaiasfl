@@ -10,9 +10,9 @@
 ---
 
 **👨‍🏫 Computer Science Teacher** at **IES Hermenegildo Lanz**  
-**💻 Full Stack Developer** specialized in the **JavaScript Ecosystem** (TypeScript, React, Next.js, Node.js)  
-**🖥️ Homelab & Infrastructure** enthusiast (Proxmox, Docker, Linux)  
-**🧠** Passionate about bringing **Local & Private AI** into education
+**💻 Full Stack Developer** specialized in the **JavaScript Ecosystem**  
+**🏗️ Self-Hosted Infrastructure** enthusiast (Proxmox, Docker, Linux)  
+**🌌** Passionate about **Local & Private AI** in education
 
 ---
 
