@@ -101,14 +101,12 @@ const focus = {
 ---
 
 ## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isaiasfl&show_icons=true&theme=default&hide_border=true" alt="Isaías FL GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaiasfl&layout=compact&hide=c%2B%2B&theme=default&hide_border=true" alt="Top Languages" />
-</p>
+<a href="https://github.com/isaiasfl">
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=isaiasfl&show_icons=true&theme=tokyonight&hide_border=true" alt="Isaías FL GitHub stats">
+</a>
+<a href="https://github.com/isaiasfl">
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=isaiasfl&layout=compact&hide=c%2B%2B&theme=tokyonight&hide_border=true" alt="Top Languages">
+</a>
 
 ---
 
@@ -123,7 +121,6 @@ const focus = {
 </a>
 
 
-### 🌐 Let’s Connect
-<a href="https://linkedin.com/in/isaiasfl/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"> </a> <a href="mailto:ifernandez@ieshlanz.es"> <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="email"> </a>
+
 
 
