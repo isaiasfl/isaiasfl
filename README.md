@@ -93,6 +93,7 @@ const focus = {
 
 ## ⭐ Featured Projects
 
+- 📘 **[JavaScript & React Notes](https://github.com/isaiasfl/CursoReact2526))** — Complete repository with notes, practical examples, and projects for learning JavaScript and React.
 - 🚲 **Hospital Bicis** — Web app for managing a bicycle lending system at school.
 - 🤖 **Private AI Gateway** — Secure API gateway for local AI models in educational environments.
 - 🧪 **Student Labs** — Practical projects for learning web development, Docker and AI integration.
