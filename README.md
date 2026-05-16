@@ -71,7 +71,7 @@ const aboutMe = {
 
 ### 🌐 Let’s Connect!
 
-<a href="https://www.linkedin.com/in/isa%C3%ADas-fl-59bb6a349/" target="_blank">
+<a href="https://linkedin.com/in/isaiasfl/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
 </a>
 <a href="mailto:ifernandez@ieshlanz.es">
